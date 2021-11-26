@@ -1,0 +1,16 @@
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\bin\Debug\net5.0\atividade 30 (resolver).exe
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\bin\Debug\net5.0\atividade 30 (resolver).deps.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\bin\Debug\net5.0\atividade 30 (resolver).runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\bin\Debug\net5.0\atividade 30 (resolver).runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\bin\Debug\net5.0\atividade 30 (resolver).dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\bin\Debug\net5.0\ref\atividade 30 (resolver).dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\bin\Debug\net5.0\atividade 30 (resolver).pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\obj\Debug\net5.0\atividade 30 (resolver).csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\obj\Debug\net5.0\atividade 30 (resolver).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\obj\Debug\net5.0\atividade 30 (resolver).AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\obj\Debug\net5.0\atividade 30 (resolver).AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\obj\Debug\net5.0\atividade 30 (resolver).csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\obj\Debug\net5.0\atividade 30 (resolver).dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\obj\Debug\net5.0\ref\atividade 30 (resolver).dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\obj\Debug\net5.0\atividade 30 (resolver).pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 30 (resolver)\obj\Debug\net5.0\atividade 30 (resolver).genruntimeconfig.cache

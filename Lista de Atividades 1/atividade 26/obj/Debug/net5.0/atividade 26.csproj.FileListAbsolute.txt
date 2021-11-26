@@ -1,0 +1,16 @@
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\obj\Debug\net5.0\atividade 26.csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\obj\Debug\net5.0\atividade 26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\obj\Debug\net5.0\atividade 26.AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\obj\Debug\net5.0\atividade 26.AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\obj\Debug\net5.0\atividade 26.csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\bin\Debug\net5.0\atividade 26.exe
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\bin\Debug\net5.0\atividade 26.deps.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\bin\Debug\net5.0\atividade 26.runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\bin\Debug\net5.0\atividade 26.runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\bin\Debug\net5.0\atividade 26.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\bin\Debug\net5.0\ref\atividade 26.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\bin\Debug\net5.0\atividade 26.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\obj\Debug\net5.0\atividade 26.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\obj\Debug\net5.0\ref\atividade 26.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\obj\Debug\net5.0\atividade 26.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 26\obj\Debug\net5.0\atividade 26.genruntimeconfig.cache

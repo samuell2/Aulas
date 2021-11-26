@@ -1,0 +1,16 @@
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\obj\Debug\net5.0\atividade 8.csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\obj\Debug\net5.0\atividade 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\obj\Debug\net5.0\atividade 8.AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\obj\Debug\net5.0\atividade 8.AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\obj\Debug\net5.0\atividade 8.csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\bin\Debug\net5.0\atividade 8.exe
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\bin\Debug\net5.0\atividade 8.deps.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\bin\Debug\net5.0\atividade 8.runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\bin\Debug\net5.0\atividade 8.runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\bin\Debug\net5.0\atividade 8.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\bin\Debug\net5.0\ref\atividade 8.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\bin\Debug\net5.0\atividade 8.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\obj\Debug\net5.0\atividade 8.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\obj\Debug\net5.0\ref\atividade 8.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\obj\Debug\net5.0\atividade 8.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 8\obj\Debug\net5.0\atividade 8.genruntimeconfig.cache

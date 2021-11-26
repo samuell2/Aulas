@@ -1,0 +1,16 @@
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\bin\Debug\net5.0\atividade 21.exe
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\bin\Debug\net5.0\atividade 21.deps.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\bin\Debug\net5.0\atividade 21.runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\bin\Debug\net5.0\atividade 21.runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\bin\Debug\net5.0\atividade 21.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\bin\Debug\net5.0\ref\atividade 21.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\bin\Debug\net5.0\atividade 21.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\obj\Debug\net5.0\atividade 21.csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\obj\Debug\net5.0\atividade 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\obj\Debug\net5.0\atividade 21.AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\obj\Debug\net5.0\atividade 21.AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\obj\Debug\net5.0\atividade 21.csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\obj\Debug\net5.0\atividade 21.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\obj\Debug\net5.0\ref\atividade 21.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\obj\Debug\net5.0\atividade 21.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 21\obj\Debug\net5.0\atividade 21.genruntimeconfig.cache

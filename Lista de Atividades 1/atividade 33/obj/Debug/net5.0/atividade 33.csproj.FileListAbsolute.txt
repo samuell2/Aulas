@@ -1,0 +1,16 @@
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\bin\Debug\net5.0\atividade 33.exe
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\bin\Debug\net5.0\atividade 33.deps.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\bin\Debug\net5.0\atividade 33.runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\bin\Debug\net5.0\atividade 33.runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\bin\Debug\net5.0\atividade 33.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\bin\Debug\net5.0\ref\atividade 33.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\bin\Debug\net5.0\atividade 33.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\obj\Debug\net5.0\atividade 33.csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\obj\Debug\net5.0\atividade 33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\obj\Debug\net5.0\atividade 33.AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\obj\Debug\net5.0\atividade 33.AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\obj\Debug\net5.0\atividade 33.csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\obj\Debug\net5.0\atividade 33.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\obj\Debug\net5.0\ref\atividade 33.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\obj\Debug\net5.0\atividade 33.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 33\obj\Debug\net5.0\atividade 33.genruntimeconfig.cache

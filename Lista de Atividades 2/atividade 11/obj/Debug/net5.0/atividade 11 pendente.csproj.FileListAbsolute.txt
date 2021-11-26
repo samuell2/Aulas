@@ -1,0 +1,32 @@
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\obj\Debug\net5.0\atividade 11 pendente.csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\obj\Debug\net5.0\atividade 11 pendente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\obj\Debug\net5.0\atividade 11 pendente.AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\obj\Debug\net5.0\atividade 11 pendente.AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\obj\Debug\net5.0\atividade 11 pendente.csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\bin\Debug\net5.0\atividade 11 pendente.exe
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\bin\Debug\net5.0\atividade 11 pendente.deps.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\bin\Debug\net5.0\atividade 11 pendente.runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\bin\Debug\net5.0\atividade 11 pendente.runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\bin\Debug\net5.0\atividade 11 pendente.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\bin\Debug\net5.0\ref\atividade 11 pendente.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\bin\Debug\net5.0\atividade 11 pendente.pdb
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\obj\Debug\net5.0\atividade 11 pendente.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\obj\Debug\net5.0\ref\atividade 11 pendente.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\obj\Debug\net5.0\atividade 11 pendente.pdb
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11 pendente\obj\Debug\net5.0\atividade 11 pendente.genruntimeconfig.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\bin\Debug\net5.0\atividade 11 pendente.exe
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\bin\Debug\net5.0\atividade 11 pendente.deps.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\bin\Debug\net5.0\atividade 11 pendente.runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\bin\Debug\net5.0\atividade 11 pendente.runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\bin\Debug\net5.0\atividade 11 pendente.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\bin\Debug\net5.0\ref\atividade 11 pendente.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\bin\Debug\net5.0\atividade 11 pendente.pdb
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\obj\Debug\net5.0\atividade 11 pendente.csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\obj\Debug\net5.0\atividade 11 pendente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\obj\Debug\net5.0\atividade 11 pendente.AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\obj\Debug\net5.0\atividade 11 pendente.AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\obj\Debug\net5.0\atividade 11 pendente.csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\obj\Debug\net5.0\atividade 11 pendente.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\obj\Debug\net5.0\ref\atividade 11 pendente.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\obj\Debug\net5.0\atividade 11 pendente.pdb
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 11\obj\Debug\net5.0\atividade 11 pendente.genruntimeconfig.cache

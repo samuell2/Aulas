@@ -1,0 +1,32 @@
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\bin\Debug\net5.0\atividade 2.exe
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\bin\Debug\net5.0\atividade 2.deps.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\bin\Debug\net5.0\atividade 2.runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\bin\Debug\net5.0\atividade 2.runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\bin\Debug\net5.0\atividade 2.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\bin\Debug\net5.0\ref\atividade 2.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\bin\Debug\net5.0\atividade 2.pdb
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\obj\Debug\net5.0\atividade 2.csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\obj\Debug\net5.0\atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\obj\Debug\net5.0\atividade 2.AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\obj\Debug\net5.0\atividade 2.AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\obj\Debug\net5.0\atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\obj\Debug\net5.0\atividade 2.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\obj\Debug\net5.0\ref\atividade 2.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\obj\Debug\net5.0\atividade 2.pdb
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2\obj\Debug\net5.0\atividade 2.genruntimeconfig.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\bin\Debug\net5.0\atividade 2.exe
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\bin\Debug\net5.0\atividade 2.deps.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\bin\Debug\net5.0\atividade 2.runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\bin\Debug\net5.0\atividade 2.runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\bin\Debug\net5.0\atividade 2.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\bin\Debug\net5.0\ref\atividade 2.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\bin\Debug\net5.0\atividade 2.pdb
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\obj\Debug\net5.0\atividade 2.csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\obj\Debug\net5.0\atividade 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\obj\Debug\net5.0\atividade 2.AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\obj\Debug\net5.0\atividade 2.AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\obj\Debug\net5.0\atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\obj\Debug\net5.0\atividade 2.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\obj\Debug\net5.0\ref\atividade 2.dll
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\obj\Debug\net5.0\atividade 2.pdb
+C:\Users\assin\Desktop\pasta\atividades 2\atividade 2 pendente\obj\Debug\net5.0\atividade 2.genruntimeconfig.cache

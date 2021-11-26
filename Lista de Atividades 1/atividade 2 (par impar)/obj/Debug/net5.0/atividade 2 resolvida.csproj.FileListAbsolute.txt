@@ -1,0 +1,32 @@
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\bin\Debug\net5.0\atividade 2 resolvida.exe
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\bin\Debug\net5.0\atividade 2 resolvida.deps.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\bin\Debug\net5.0\atividade 2 resolvida.runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\bin\Debug\net5.0\atividade 2 resolvida.runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\bin\Debug\net5.0\atividade 2 resolvida.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\bin\Debug\net5.0\ref\atividade 2 resolvida.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\bin\Debug\net5.0\atividade 2 resolvida.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\obj\Debug\net5.0\atividade 2 resolvida.csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\obj\Debug\net5.0\atividade 2 resolvida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\obj\Debug\net5.0\atividade 2 resolvida.AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\obj\Debug\net5.0\atividade 2 resolvida.AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\obj\Debug\net5.0\atividade 2 resolvida.csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\obj\Debug\net5.0\atividade 2 resolvida.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\obj\Debug\net5.0\ref\atividade 2 resolvida.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\obj\Debug\net5.0\atividade 2 resolvida.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 resolvida\obj\Debug\net5.0\atividade 2 resolvida.genruntimeconfig.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\bin\Debug\net5.0\atividade 2 resolvida.exe
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\bin\Debug\net5.0\atividade 2 resolvida.deps.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\bin\Debug\net5.0\atividade 2 resolvida.runtimeconfig.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\bin\Debug\net5.0\atividade 2 resolvida.runtimeconfig.dev.json
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\bin\Debug\net5.0\atividade 2 resolvida.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\bin\Debug\net5.0\ref\atividade 2 resolvida.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\bin\Debug\net5.0\atividade 2 resolvida.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\obj\Debug\net5.0\atividade 2 resolvida.csproj.AssemblyReference.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\obj\Debug\net5.0\atividade 2 resolvida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\obj\Debug\net5.0\atividade 2 resolvida.AssemblyInfoInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\obj\Debug\net5.0\atividade 2 resolvida.AssemblyInfo.cs
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\obj\Debug\net5.0\atividade 2 resolvida.csproj.CoreCompileInputs.cache
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\obj\Debug\net5.0\atividade 2 resolvida.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\obj\Debug\net5.0\ref\atividade 2 resolvida.dll
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\obj\Debug\net5.0\atividade 2 resolvida.pdb
+C:\Users\assin\Desktop\pasta\atividadaes\atividade 2 (par impar)\obj\Debug\net5.0\atividade 2 resolvida.genruntimeconfig.cache
